@@ -1,5 +1,8 @@
 # CPP-School-Assignments
+
 Contains completed programs for my school assignments
+
+All assignments were coded using PuTTy and compiled with a g++ compiler
 
 =================================================================
   
