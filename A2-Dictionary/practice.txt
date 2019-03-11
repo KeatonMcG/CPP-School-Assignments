@@ -1,0 +1,6 @@
+
+AddW	     student
+DeleteW	     play
+SearchW	     medical
+PrintF       Q.txt
+
